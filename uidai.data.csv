@@ -1,0 +1,12 @@
+State,District,Year,Month,Urban_Rural,Gender,Age_Group,Enrolments,Updates,Mobile_Updates,Address_Updates,DOB_Updates,Biometric_Updates,Rejections,Approval_Rate,Processing_Days
+Maharashtra,Mumbai,2021,Jan,Urban,Male,18-35,420000,180000,90000,50000,25000,15000,1200,97.2,3
+Maharashtra,Mumbai,2022,Jan,Urban,Female,18-35,460000,210000,110000,60000,28000,12000,1400,97.8,3
+Maharashtra,Pune,2023,Jan,Urban,All,All,520000,260000,130000,75000,32000,23000,1600,98.4,2
+
+Uttar Pradesh,Lucknow,2021,Jan,Urban,Male,18-35,610000,240000,120000,70000,30000,20000,2100,96.5,4
+Uttar Pradesh,Varanasi,2022,Jan,Rural,Female,36-60,580000,260000,135000,80000,29000,16000,2500,95.8,5
+Uttar Pradesh,Kanpur,2023,Jan,Urban,All,All,690000,310000,160000,90000,35000,25000,2300,97.9,3
+
+Tamil Nadu,Chennai,2021,Jan,Urban,Male,18-35,350000,160000,85000,45000,18000,12000,900,98.9,2
+Tamil Nadu,Coimbatore,2022,Jan,Urban,Female,36-60,380000,175000,90000,50000,20000,15000,1100,99.1,2
+Tamil Nadu,Madurai,2023,Jan,Rural,All,All,420000,190000,100000,55000,23000,17000,1200,98.5,3

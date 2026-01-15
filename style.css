@@ -1,0 +1,48 @@
+/* =========================
+   UIDAI Data Hackathon CSS
+   Clean • Professional • Readable
+   ========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f6f8;
+    color: #222;
+    line-height: 1.6;
+}
+
+/* ---------- Header ---------- */
+header {
+    background: linear-gradient(90deg, #0b3c5d, #1d6fa5);
+    color: #ffffff;
+    padding: 24px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 28px;
+    margin-bottom: 6px;
+}
+
+header p {
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+/* ---------- Layout ---------- */
+.container {
+    max-width: 1100px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+.section {
+    background: #ffffff;
+    padding: 22px;
+    margin-bottom: 20px;
+}
